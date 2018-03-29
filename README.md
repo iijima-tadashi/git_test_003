@@ -1,2 +1,5 @@
 # git_test_003
-PyCharmからGitを使う練習
+PythonでGitを使う練習
+
+ * PyCharmから
+ * CodeAnywhereから
